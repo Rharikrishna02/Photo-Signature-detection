@@ -1,0 +1,7 @@
+The requirements to run this project back-end are:
+crypt
+flask
+flask_cors
+pyrebase
+skimage.metrics
+OpenCV 2
