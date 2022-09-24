@@ -1,0 +1,53 @@
+h1{
+    position: relative;
+    text-align: center;
+    color: #4caf50;
+    margin: auto;
+    margin-bottom: 20px;
+}
+p{
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: medium;
+    color: gray;
+    position: relative;
+    text-align: center;
+    margin: auto;
+    margin-top: 2px;
+}
+.separator{
+    margin-top: 20px;
+}
+.error-h1{
+    color:red;
+}
+  body {
+    padding: 20px;
+  }
+  .circle {
+    position: relative;
+    margin: auto;
+    background: #4caf50;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+  } 
+  .closer{
+    position: relative;
+    margin: auto;
+    background-color: white;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+  }
+  .check-mark {
+    position: absolute;
+    transform: rotate(45deg) translate(-50%, -50%);
+    left: 35%;
+    top: 45%;
+    height: 34px;
+    width: 17px;
+    margin:0;
+    border-bottom: 3px solid white;
+    border-right: 3px solid white;
+  }
+  
